@@ -1,0 +1,21 @@
+.notFound {
+    min-height: 50vh;
+    display: flex;
+    // justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h1 {
+        margin-top: 60px;
+        font-size: 30px;
+    }
+
+    p {
+        margin-top: 5px;
+        color: rgb(62, 65, 69);
+    }
+
+    span {
+        font-size: 80px;
+    }
+}
